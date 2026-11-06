@@ -1,41 +1,33 @@
 # Unit 1 — Quantum Chemistry
 
-A complete explanatory reconstruction of the supplied 67-page handwritten Quantum Chemistry unit.
+Complete explanatory study notes reconstructed from the supplied 67-page handwritten chapter.
 
-## Chapter map
-1. Wavefunction and Born interpretation
-2. Normalization and orthogonality
-3. Quantum-mechanical operators and operator algebra
-4. Hermitian operators and adjoints
-5. Eigenvalues, eigenfunctions and expectation values
-6. Time-dependent Schrödinger equation and free particles
-7. Particle in one- and three-dimensional boxes
-8. Transition moment integrals and selection rules
-9. Finite wells and tunnelling
-10. Simple harmonic oscillator and Hermite polynomials
-11. Rigid rotor, spherical polar coordinates and spherical harmonics
-12. Hydrogen atom, radial probability and energy levels
-13. Helium atom and many-electron limitations
+## Chapter coverage
+Wavefunctions and Born interpretation; normalization and orthogonality; operators and operator algebra; Hermitian operators and adjoints; eigenvalues, eigenfunctions and expectation values; time-dependent Schrödinger equation; free particles and particles in one- and three-dimensional boxes; transition moments and selection rules; finite wells and tunnelling; harmonic oscillator and Hermite polynomials; rigid rotor; spherical coordinates and harmonics; hydrogenic radial functions and probability; hydrogen energy levels; and the helium atom.
 
 ## Teaching additions
-Conceptual checkpoints follow the major topics. Supplementary numerical practice and worked answers are kept distinct from source-derived material. Ambiguous source notation is preserved and clarified in a separate log.
+Conceptual checkpoints follow the major topics. Supplementary practice questions and worked answers are clearly distinguished from handwritten source material. Ambiguous source notation and scientific qualifications are documented separately.
 
-## Source archive and local deliverables
-The original 67-page PDF, rendered source pages, 17 figure extracts, editable DOCX, final PDF and complete Markdown source are included in the downloadable project archive delivered with this work. This GitHub branch currently stores the project index and text-based audit records; the binary source/document assets and full Markdown file have not been transferred to GitHub in this pass.
+## Source and deliverables
+The downloadable project archive contains:
+- Original 67-page handwritten PDF.
+- All 67 rendered source-page images.
+- 20 topic-specific source-figure extracts.
+- Editable DOCX with native Office Math equations.
+- 62-page A4 PDF export.
+- Complete Markdown authoring source.
+- Figure inventory, source coverage checklist, scientific clarification log, render audit and screenshot-driven defect log.
 
-## QA summary
-- 62 A4 pages in the final PDF.
-- 696 native Office Math (OMML) objects, including 294 display-equation containers.
-- 17 selected source figures embedded in the Word file.
-- All 67 source pages rendered and archived.
-- Full-page contact sheets reviewed for both DOCX and PDF output.
-- No missing-glyph replacement characters or square checkbox placeholders found in the final PDF text.
+## Quality assurance
+The current DOCX contains 700 native OMML math objects, including 298 display-equation containers, and 20 embedded source figures. DOCX and PDF were independently rendered; contact sheets covering all 62 pages were reviewed. The latest screenshot-driven revision corrects the Section 6.4 momentum-operator integration-by-parts derivation and the figure placements in Sections 10, 11 and 17. The final PDF text has no replacement characters or hollow-square placeholders.
 
-## Audit files
+## Audit records
 - analysis/figure-inventory.md
 - analysis/source-coverage-checklist.md
 - analysis/scientific-clarifications.md
 - analysis/render-audit.md
+- analysis/refinement-defect-log.md
 - analysis/github-status.md
 
-No chapter changes have been merged into main.
+## GitHub workspace
+Project index and text audit records are maintained on branch docs/unit-1-quantum-chemistry. The complete notes, source scan and binary images are included in the downloadable project archive; binary uploads are not part of this branch snapshot. No chapter changes have been merged into main.
